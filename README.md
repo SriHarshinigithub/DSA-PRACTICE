@@ -8,9 +8,6 @@ Welcome to my DSA practice repository! This repository contains 30 curated codin
 
 - [Arrays](#arrays)
 - [Linked Lists](#linked-lists)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ---
 
